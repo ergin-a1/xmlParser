@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlMetas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0002_00110501.tif" />
+      <Campo Name="Grado" Value="03" Status="Invalid" />
+      <Campo Name="CodEst" Value="01361-2-9" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0003_00110502.tif" />
+      <Campo Name="Grado" Value="1-8" Status="Invalid" />
+      <Campo Name="CodEst" Value="10202524203" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0004_00110504.tif" />
+      <Campo Name="Grado" Value="81" Status="Invalid" />
+      <Campo Name="CodEst" Value="133036382547" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0005_00110505.tif" />
+      <Campo Name="Grado" Value="3" Status="Invalid" />
+      <Campo Name="CodEst" Value="354473-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0006_00110507.tif" />
+      <Campo Name="Grado" Value="26" Status="Invalid" />
+      <Campo Name="CodEst" Value="77316395" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0007_00110509.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="2346559624" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0008_00110510.tif" />
+      <Campo Name="Grado" Value="2735" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="36933-0" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0009_00110511.tif" />
+      <Campo Name="Grado" Value="-2543" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0010_00110513.tif" />
+      <Campo Name="Grado" Value="42" Status="Invalid" />
+      <Campo Name="CodEst" Value="732-4694355-584" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0011_00110514.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="3694750" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0012_00110516.tif" />
+      <Campo Name="Grado" Value="22-2" Status="Invalid" />
+      <Campo Name="CodEst" Value="413676524474" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0013_00110517.tif" />
+      <Campo Name="Grado" Value="23" Status="Valid" />
+      <Campo Name="CodEst" Value="37678-7" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0014_00110519.tif" />
+      <Campo Name="Grado" Value="2-3" Status="Invalid" />
+      <Campo Name="CodEst" Value="238048-59" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0015_00110521.tif" />
+      <Campo Name="Grado" Value="-25" Status="Invalid" />
+      <Campo Name="CodEst" Value="88117-9" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0016_00110523.tif" />
+      <Campo Name="Grado" Value="55" Status="Invalid" />
+      <Campo Name="CodEst" Value="38170-53" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0017_00110525.tif" />
+      <Campo Name="Grado" Value="31" Status="Invalid" />
+      <Campo Name="CodEst" Value="38670-5" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0018_00110527.tif" />
+      <Campo Name="Grado" Value="2-24" Status="Invalid" />
+      <Campo Name="CodEst" Value="3859291" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0019_00110529.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0020_00110530.tif" />
+      <Campo Name="Grado" Value="2-2" Status="Invalid" />
+      <Campo Name="CodEst" Value="-351961--1--4" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0021_00110532.tif" />
+      <Campo Name="Grado" Value="62-226" Status="Invalid" />
+      <Campo Name="CodEst" Value="73993259" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0022_00110533.tif" />
+      <Campo Name="Grado" Value="001410-0" Status="Invalid" />
+      <Campo Name="CodEst" Value="3476833-46544-4121" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0023_00110534.tif" />
+      <Campo Name="Grado" Value="25" Status="Invalid" />
+      <Campo Name="CodEst" Value="379977776-78" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0024_00110535.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="7339381053" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0025_00110537.tif" />
+      <Campo Name="Grado" Value="22" Status="Invalid" />
+      <Campo Name="CodEst" Value="423-9995" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0026_00110539.tif" />
+      <Campo Name="Grado" Value="-272" Status="Invalid" />
+      <Campo Name="CodEst" Value="60209-5" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0027_00110541.tif" />
+      <Campo Name="Grado" Value="233" Status="Invalid" />
+      <Campo Name="CodEst" Value="73662342" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0028_00110543.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="254-34-4251-240754369--5457-75--100274--" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0029_00110544.tif" />
+      <Campo Name="Grado" Value="3" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="40535-3" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0030_00110545.tif" />
+      <Campo Name="Grado" Value="31" Status="Invalid" />
+      <Campo Name="CodEst" Value="-5064838" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0031_00110547.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="57-23-735-4158-36133346-150-105580" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0032_00110548.tif" />
+      <Campo Name="Grado" Value="31" Status="Invalid" />
+      <Campo Name="CodEst" Value="44-1095--1--0" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0033_00110549.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="73551746641495" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0034_00110551.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0035_00110552.tif" />
+      <Campo Name="Grado" Value="33" Status="Invalid" />
+      <Campo Name="CodEst" Value="43-35" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0036_00110553.tif" />
+      <Campo Name="Grado" Value="25" Status="Invalid" />
+      <Campo Name="CodEst" Value="15771825832" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0037_00110554.tif" />
+      <Campo Name="Grado" Value="63" Status="Invalid" />
+      <Campo Name="CodEst" Value="8513336355727" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0038_00110555.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0039_00110557.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0040_00110558.tif" />
+      <Campo Name="Grado" Value="2333" Status="Invalid" />
+      <Campo Name="CodEst" Value="42144-83" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0041_00110559.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="3532353" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0042_00110560.tif" />
+      <Campo Name="Grado" Value="223" Status="Invalid" />
+      <Campo Name="CodEst" Value="1427414" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0043_00110562.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0044_00110563.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0045_00110564.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="-62223542" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0046_00110565.tif" />
+      <Campo Name="Grado" Value="2071-7---4582531-435110" Status="Invalid" />
+      <Campo Name="CodEst" Value="7322398456-3214-13-78-114" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0047_00110566.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="43-285527-4--0" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0048_00110568.tif" />
+      <Campo Name="Grado" Value="15" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="043194-2" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0049_00110570.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="336023116-2-78642854" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0050_00110572.tif" />
+      <Campo Name="Grado" Value="35" Status="Invalid" />
+      <Campo Name="CodEst" Value="2320244" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0051_00110574.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0052_00110576.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="4068-0-929418-4-0101142214-7" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0053_00110578.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="4436058" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0054_00110580.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0055_00110581.tif" />
+      <Campo Name="Grado" Value="523" Status="Invalid" />
+      <Campo Name="CodEst" Value="2515853" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0056_00110582.tif" />
+      <Campo Name="Grado" Value="2-55" Status="Invalid" />
+      <Campo Name="CodEst" Value="-3561042-3171" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0057_00110583.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="3-523-37" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0058_00110584.tif" />
+      <Campo Name="Grado" Value="2739" Status="Invalid" />
+      <Campo Name="CodEst" Value="35311242" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0059_00110585.tif" />
+      <Campo Name="Grado" Value="23" Status="Valid" />
+      <Campo Name="CodEst" Value="45612-8" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0060_00110587.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="3593113" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0061_00110589.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="27-6392" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0062_00110591.tif" />
+      <Campo Name="Grado" Value="31" Status="Invalid" />
+      <Campo Name="CodEst" Value="546638-9" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0063_00110593.tif" />
+      <Campo Name="Grado" Value="24" Status="Invalid" />
+      <Campo Name="CodEst" Value="3687362" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0064_00110594.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="237035595-25" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0065_00110596.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="22255-5250" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0066_00110598.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="53-279353-5" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0067_00110599.tif" />
+      <Campo Name="Grado" Value="6332" Status="Invalid" />
+      <Campo Name="CodEst" Value="75-2-47-7-67-44262825-2-71882-2-87196124418" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0068_00110601.tif" />
+      <Campo Name="Grado" Value="2-3" Status="Invalid" />
+      <Campo Name="CodEst" Value="4734595" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0069_00110602.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0070_00110604.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="338386-34" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0071_00110606.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="13821892" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0072_00110608.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="48219--6" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0073_00110609.tif" />
+      <Campo Name="Grado" Value="58-1" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0074_00110611.tif" />
+      <Campo Name="Grado" Value="23" Status="Valid" />
+      <Campo Name="CodEst" Value="48540-3" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0075_00110612.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0076_00110613.tif" />
+      <Campo Name="Grado" Value="27672472-4" Status="Invalid" />
+      <Campo Name="CodEst" Value="0-8-4-1-0-150-81714---2-7-702---44--5-09-7504-4820188155742008" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0077_00110615.tif" />
+      <Campo Name="Grado" Value="32" Status="Invalid" />
+      <Campo Name="CodEst" Value="751148-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0078_00110617.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="5413251-3516" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0079_00110619.tif" />
+      <Campo Name="Grado" Value="-23" Status="Invalid" />
+      <Campo Name="CodEst" Value="372517729-634217" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0080_00110621.tif" />
+      <Campo Name="Grado" Value="44" Status="Invalid" />
+      <Campo Name="CodEst" Value="5211662" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0081_00110623.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="317572132435472" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0082_00110624.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="4-572318-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0083_00110625.tif" />
+      <Campo Name="Grado" Value="75" Status="Invalid" />
+      <Campo Name="CodEst" Value="7552330-" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0084_00110627.tif" />
+      <Campo Name="Grado" Value="41" Status="Invalid" />
+      <Campo Name="CodEst" Value="4523-683-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0085_00110629.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="432215422-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0086_00110631.tif" />
+      <Campo Name="Grado" Value="24" Status="Invalid" />
+      <Campo Name="CodEst" Value="5252292" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0087_00110633.tif" />
+      <Campo Name="Grado" Value="05" Status="Invalid" />
+      <Campo Name="CodEst" Value="5289944" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0088_00110634.tif" />
+      <Campo Name="Grado" Value="1025-7-71-0" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0089_00110635.tif" />
+      <Campo Name="Grado" Value="4045" Status="Invalid" />
+      <Campo Name="CodEst" Value="45292194" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0090_00110636.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="307314032" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0091_00110638.tif" />
+      <Campo Name="Grado" Value="524" Status="Invalid" />
+      <Campo Name="CodEst" Value="53725-22" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0092_00110639.tif" />
+      <Campo Name="Grado" Value="27" Status="Invalid" />
+      <Campo Name="CodEst" Value="5392298" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0093_00110641.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="156209599" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0094_00110643.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="3330964" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0095_00110645.tif" />
+      <Campo Name="Grado" Value="3" Status="Invalid" />
+      <Campo Name="CodEst" Value="5462262" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0096_00110647.tif" />
+      <Campo Name="Grado" Value="71" Status="Invalid" />
+      <Campo Name="CodEst" Value="54678-25" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0097_00110648.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="5-37274952" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0098_00110650.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0099_00110652.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0100_00110654.tif" />
+      <Campo Name="Grado" Value="313" Status="Invalid" />
+      <Campo Name="CodEst" Value="556560-" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0101_00110655.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="75707130" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0102_00110657.tif" />
+      <Campo Name="Grado" Value="-455" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="57207-1" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0103_00110659.tif" />
+      <Campo Name="Grado" Value="03" Status="Invalid" />
+      <Campo Name="CodEst" Value="01--5168-94" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0104_00110660.tif" />
+      <Campo Name="Grado" Value="04" Status="Valid" />
+      <Campo Name="CodEst" Value="01657-8" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0105_00110661.tif" />
+      <Campo Name="Grado" Value="37" Status="Invalid" />
+      <Campo Name="CodEst" Value="5739092" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0106_00110662.tif" />
+      <Campo Name="Grado" Value="27" Status="Valid" />
+      <Campo Name="CodEst" Value="58055-4" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0107_00110664.tif" />
+      <Campo Name="Grado" Value="261" Status="Invalid" />
+      <Campo Name="CodEst" Value="58393-63" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0108_00110666.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="50" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0109_00110667.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="6906871" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0110_00110669.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="39-22387-122" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0111_00110671.tif" />
+      <Campo Name="Grado" Value="55" Status="Invalid" />
+      <Campo Name="CodEst" Value="75968-059" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0112_00110672.tif" />
+      <Campo Name="Grado" Value="23" Status="Invalid" />
+      <Campo Name="CodEst" Value="837972-2-41" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0113_00110674.tif" />
+      <Campo Name="Grado" Value="2427" Status="Invalid" />
+      <Campo Name="CodEst" Value="234706-8421" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0114_00110675.tif" />
+      <Campo Name="Grado" Value="75" Status="Invalid" />
+      <Campo Name="CodEst" Value="8-60083-" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0115_00110677.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="56009564" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0116_00110678.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="76604964362" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0117_00110680.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="75660491371350" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0118_00110682.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="490059-8497" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0119_00110684.tif" />
+      <Campo Name="Grado" Value="23-7" Status="Invalid" />
+      <Campo Name="CodEst" Value="56057647" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0120_00110685.tif" />
+      <Campo Name="Grado" Value="93520--2" Status="Invalid" />
+      <Campo Name="CodEst" Value="38508-4260281425015-167-0-4" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0121_00110687.tif" />
+      <Campo Name="Grado" Value="3" Status="Invalid" />
+      <Campo Name="CodEst" Value="33090762" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0122_00110688.tif" />
+      <Campo Name="Grado" Value="527" Status="Invalid" />
+      <Campo Name="CodEst" Value="61183-22" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0123_00110690.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="---39-20----774-17040--92-3052-653009--9857-72787-1287-27-3310" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0124_00110692.tif" />
+      <Campo Name="Grado" Value="37" Status="Invalid" />
+      <Campo Name="CodEst" Value="83384142" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0125_00110693.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="28363840" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0126_00110695.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="84-234747" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0127_00110697.tif" />
+      <Campo Name="Grado" Value="085" Status="Invalid" />
+      <Campo Name="CodEst" Value="23398954" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0128_00110698.tif" />
+      <Campo Name="Grado" Value="0" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="66442-1" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0129_00110700.tif" />
+      <Campo Name="Grado" Value="332" Status="Invalid" />
+      <Campo Name="CodEst" Value="135358335438" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0130_00110702.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="-6692249" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0131_00110703.tif" />
+      <Campo Name="Grado" Value="278" Status="Invalid" />
+      <Campo Name="CodEst" Value="2-680568-01" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0132_00110704.tif" />
+      <Campo Name="Grado" Value="56" Status="Invalid" />
+      <Campo Name="CodEst" Value="12811111" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0133_00110705.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="3831697" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0134_00110707.tif" />
+      <Campo Name="Grado" Value="-23" Status="Invalid" />
+      <Campo Name="CodEst" Value="3568452937" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0135_00110708.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="4313846411552" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0136_00110709.tif" />
+      <Campo Name="Grado" Value="28" Status="Invalid" />
+      <Campo Name="CodEst" Value="86825849" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0137_00110710.tif" />
+      <Campo Name="Grado" Value="28" Status="Invalid" />
+      <Campo Name="CodEst" Value="486381384-3" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0138_00110711.tif" />
+      <Campo Name="Grado" Value="88" Status="Invalid" />
+      <Campo Name="CodEst" Value="6833857" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0139_00110712.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="268339-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0140_00110713.tif" />
+      <Campo Name="Grado" Value="53" Status="Invalid" />
+      <Campo Name="CodEst" Value="3835046" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0141_00110714.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="33-8397-932" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0142_00110716.tif" />
+      <Campo Name="Grado" Value="28" Status="Invalid" />
+      <Campo Name="CodEst" Value="68707334" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0143_00110718.tif" />
+      <Campo Name="Grado" Value="28" Status="Invalid" />
+      <Campo Name="CodEst" Value="6873394" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0144_00110720.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0145_00110722.tif" />
+      <Campo Name="Grado" Value="228" Status="InvalidDB" />
+      <Campo Name="CodEst" Value="68908-4" Status="InvalidDB" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0146_00110724.tif" />
+      <Campo Name="Grado" Value="258-" Status="Invalid" />
+      <Campo Name="CodEst" Value="26894156" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0147_00110726.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="368-15-4225500" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0148_00110727.tif" />
+      <Campo Name="Grado" Value="25" Status="Invalid" />
+      <Campo Name="CodEst" Value="6900255" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0149_00110728.tif" />
+      <Campo Name="Grado" Value="278" Status="Invalid" />
+      <Campo Name="CodEst" Value="6915767" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0150_00110729.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="485985188972" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0151_00110730.tif" />
+      <Campo Name="Grado" Value="-28" Status="Invalid" />
+      <Campo Name="CodEst" Value="39296931" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0152_00110732.tif" />
+      <Campo Name="Grado" Value="24-8" Status="Invalid" />
+      <Campo Name="CodEst" Value="69369-3" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Valid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0153_00110734.tif" />
+      <Campo Name="Grado" Value="28" Status="Valid" />
+      <Campo Name="CodEst" Value="69545-9" Status="Valid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0154_00110736.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="26939143" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0155_00110738.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="39566-4" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0156_00110740.tif" />
+      <Campo Name="Grado" Value="28" Status="Invalid" />
+      <Campo Name="CodEst" Value="7367383847" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0157_00110741.tif" />
+      <Campo Name="Grado" Value="2-8" Status="Invalid" />
+      <Campo Name="CodEst" Value="7034845-2" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0158_00110743.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="7-5706654-21" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0159_00110744.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0160_00110745.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="6073542" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0161_00110746.tif" />
+      <Campo Name="Grado" Value="228" Status="Invalid" />
+      <Campo Name="CodEst" Value="7160540" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0162_00110747.tif" />
+      <Campo Name="Grado" Value="" Status="Invalid" />
+      <Campo Name="CodEst" Value="" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Meta>
+    <IdIDC>GND#201111L06V04#GEN_00000004#SL001031</IdIDC>
+    <CreationDate>2012-08-08 11:07:46</CreationDate>
+    <Status>Invalid</Status>
+    <Image>
+      <Campo Name="Id Imagen" Value="SL001031_0163_00110748.tif" />
+      <Campo Name="Grado" Value="2-88" Status="Invalid" />
+      <Campo Name="CodEst" Value="22111322-89" Status="Invalid" />
+    </Image>
+  </Meta>
+  <Revisión_x0020_Nro.>0</Revisión_x0020_Nro.>
+  <Indice>0</Indice>
+  <SubIndice>0</SubIndice>
+</XmlMetas>
