@@ -1,12 +1,11 @@
 import java.util.Date;
 
 /**
- * Created with IntelliJ IDEA.
  * User: fabricio
  * Date: 10/14/12
  * Time: 8:58 PM
- * To change this template use File | Settings | File Templates.
  */
+
 public class Meta {
     private String idIDC;
     private Date creationDate;
@@ -53,5 +52,15 @@ public class Meta {
         this.creationDate = creationDate;
         this.status = status;
         this.image = image;
+    }
+
+    public String toString(int id) {
+        return "----------------------------\n"+
+                "|         META "+id+"           |\n"+
+                "----------------------------\n"+
+                "|\tidIDC = '" + idIDC + "\'\n" +
+                "|\tcreationDate = " + creationDate + '\n' +
+                "|\tstatus = '" + status + '\'' + '\n' +
+                "|\timage = " + image.toString();
     }
 }

@@ -1,3 +1,5 @@
+import org.w3c.dom.Node;
+
 /**
  * User: fabricio
  * Date: 10/14/12
@@ -39,5 +41,18 @@ public class Campo {
         this.name = name;
         this.value = value;
         this.status = status;
+    }
+
+    public Campo(Node campo){
+        this.name = XmlHelper.getNodeAttr("Name", campo);
+        this.value = XmlHelper.getNodeAttr("Value", campo);
+        this.status = XmlHelper.getNodeAttr("Status", campo);
+    }
+
+    @Override
+    public String toString() {
+        return "\tName='" + name + '\'' +
+                " Value='" + value + '\'' +
+                " "+((!"".equals(status))?"status='" + status + '\'':' ');
     }
 }

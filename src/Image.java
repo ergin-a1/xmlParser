@@ -40,4 +40,11 @@ public class Image {
         this.grado = grado;
         this.codEst = codEst;
     }
+
+    @Override
+    public String toString() {
+        return "\n|\t\tidImagen = " + idImagen +  '\n' +
+                "|\t\tgrado = " + grado +  '\n' +
+                "|\t\tcodEst = " + codEst;
+    }
 }
