@@ -55,9 +55,9 @@ public class Meta {
     }
 
     public String toString(int id) {
-        return "----------------------------\n"+
-                "|         META "+id+"           |\n"+
-                "----------------------------\n"+
+        return "-----------------------------------------------------------\n"+
+                "|                        META "+id+"                         |\n"+
+                "-----------------------------------------------------------\n"+
                 "|\tidIDC = '" + idIDC + "\'\n" +
                 "|\tcreationDate = " + creationDate + '\n' +
                 "|\tstatus = '" + status + '\'' + '\n' +
