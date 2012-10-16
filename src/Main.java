@@ -8,8 +8,11 @@ public class Main {
     public static void main(String[] args) {
         try {
 
-            MetaParser metaParser = new MetaParser("Archivos/Meta.xml");
-            metaParser.parse();
+//            MetaParser metaParser = new MetaParser("Archivos/Meta.xml");
+//            metaParser.parse();
+
+              XmlMapeoParser mapeoParser = new XmlMapeoParser("Archivos/Mapeo.xml");
+              mapeoParser.parse();
 
         } catch(Exception e) {
             e.printStackTrace();
